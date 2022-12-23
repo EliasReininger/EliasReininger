@@ -27,7 +27,7 @@
 
 <h2>I Love ❤️:<h2/>
 <p align="center">
-    <img src="https://github.com/ereining/ereining/blob/main/Python.png" alt="Python"/>
+    <img src="https://github.com/EliasReininger/EliasReininger/blob/main/images/Python.png" alt="Python"/>
 </p>
 
 <h2 align="left">Frameworks:</h2>
