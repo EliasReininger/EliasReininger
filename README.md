@@ -110,16 +110,29 @@
 </p>
 
 <hr/>
-<h2> Private </h2>
+<h1> About Me </h1>
 
-[![Typing-SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&duration=4000&pause=400&color=00FFFF&width=435&lines=programming;maths;physics;chemistry;musik)](https://git.io/typing-svg)
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/ereining/count.svg" />  
+</p>
+
+<h2> Hobbys: </h2>
+<p>
+    <li>programming</li>
+    <li>math</li>
+    <li>physics</li>
+    <li>chemistry</li>
+    <li>musik</li>
+  </ul>
+<p/>  
 
 [![my-spotify](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true&bar_color=00ffff)](https://spotify-github-profile.vercel.app/api/view?uid=tkyb29iyc4powyrdzdrz7i7yl&redirect=true)
 
 
-<hr style="border:1px dotted #bbb !important;"/>
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
     <a href="https://instagram.com/eliasreininger" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
